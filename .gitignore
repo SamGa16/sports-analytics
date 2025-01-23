@@ -1,0 +1,6 @@
+data
+notebooks
+tests
+
+models/train
+models/eval
